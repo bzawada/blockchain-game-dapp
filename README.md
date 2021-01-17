@@ -7,5 +7,4 @@ Simple memory game based on blockchain, ethereum smart contracts and React.js
 Dependencies:
 * Node.js
 * Truffle
-* Ganache
 * Metamask
